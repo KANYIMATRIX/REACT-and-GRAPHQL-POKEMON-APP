@@ -2,8 +2,8 @@
 
 cd to Directory 
 
-install packages using npm
+~~ install packages using npm
 
-npm i
+~~ npm i
 
-Run application using npm start
+Run application using ~~npm start
